@@ -11,7 +11,7 @@ I'm doing great. I couldn't make it to the introduction session in person so I m
 
 I took a plane home, barely made it for the second session tomorrow. It's a 3+9+2 flight-flight-tram journey.  
 
-I was paired with 2 weekly buddies - I have already scheduled a donut chat with them tomorrow's morning. Someone posted a 112-page PDF book about testing if your business idea is good)[https://chisel-sprout-a92.notion.site/The-Mom-Test-Summary-And-Notes-e52b18a9a66b43039952db42a2367714], I will read it when I'm on the tram - no time for pizza.
+I was paired with 2 weekly buddies - I have already scheduled a donut chat with them tomorrow's morning. Someone posted a [112-page PDF book about testing if your business idea is good](https://chisel-sprout-a92.notion.site/The-Mom-Test-Summary-And-Notes-e52b18a9a66b43039952db42a2367714), I will read it when I'm on the tram - no time for pizza.
 
 Sehar recommended everyone to set up a Wordpress or Squarespace blog but I think Github is cooler. Also I want it to appeal more to other CS-persons.
 

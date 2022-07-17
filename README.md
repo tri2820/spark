@@ -2,7 +2,7 @@
 Dear diary,
 
 in this repository I shall write down every nitty-gritty of my experience with Deakin's SPARK.
-It's week 1 and I only have a faint conception of how to run a business. Given how indecisive I am, I will give myself some time (weeks?) before settle for my startup idea.
+It's week 1 and I only have a faint conception of how to run a business. Given how indecisive I am, I will give myself some time (weeks?) before settling for my startup idea.
 
 Juggling between 3 units, a job and a WIL unit is excruciating.
 

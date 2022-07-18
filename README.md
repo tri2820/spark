@@ -16,3 +16,6 @@ I was paired with 2 weekly buddies - I have already scheduled a donut chat with 
 Sehar recommended everyone to set up a Wordpress or Squarespace blog but I think Github is cooler. Also I want it to appeal more to other CS-persons.
 
 I already told someone that I'm working on a "trading platform with some interesting financial products", so maybe I will stick with that. I will post the WIP Python code/Figma that I have been working on for a month but hey, it's an entrepreneurship (tks google) unit not a programming unit so I don't think it's that important anyway.
+
+# Week 2:
+Reading MOM test

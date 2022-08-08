@@ -18,4 +18,12 @@ Sehar recommended everyone to set up a Wordpress or Squarespace blog but I think
 I already told someone that I'm working on a "trading platform with some interesting financial products", so maybe I will stick with that. I will post the WIP Python code/Figma that I have been working on for a month but hey, it's an entrepreneurship (tks google) unit not a programming unit so I don't think it's that important anyway.
 
 # Week 2:
-Reading MOM test
+Reading MOM test (finished 1/3)
+
+# Week 3:
+I got Aaron on the team with me. Aaron has a background in IT which makes having conversation with him much more easier. He's also a motivated person. We had a discussion about the idea of building the financial product. Things are a bit slow-paced and there are areas where I will need advices from someone with expertise. However, I see a solid opportunity in this.
+
+I had asked the customer about a related idea. I also learned how to run Instagra ads.
+
+# Week 4:
+Still working on the idea. Learned the tech.

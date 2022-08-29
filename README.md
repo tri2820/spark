@@ -27,3 +27,12 @@ I had asked the customer about a related idea. I also learned how to run Instagr
 
 # Week 4:
 Still working on the idea. Learned the tech.
+
+# Week n:
+It turned out this was not a diary with "every nitty-gritty of my experience" as I thought. I have not updated this log for a long time, BUT the project is still going well. The business model will continue to evolve, but at last it must be B2B. I had trouble understanding several concepts in this space: they are complicated and not public information. Good thing is, I will meet 2 customers who are specialists in this space and hopefully they can give me the answers. One is on Tuesday, the other is TBD.
+
+The website is up. Having the website created first was a good decision (even though I spent too much time on it): in order to fit the company's mission into the homepage, I found ways to explain my ideas concisely. Aaron said we are making progress but I feel like we must talk to someone else or this will be another abandoned project soon.
+
+Last few weeks are about just that. I had a good time making connections. And while reiterating the idea many times bored me out, it's needed.
+
+Lessons learned: Australian government plans to have 50% less super funds by 2028, we need some capital for this model to work, and LinkedIn groups are surprisingly useful. 

@@ -41,4 +41,6 @@ Lessons learned: Australian government plans to have 50% less super funds by 202
 I have decided to share some resources that we have written during the creation of Leaf Finance - the synthetic token for ethical investment. This is but a fraction of the internal documents, but it should be enough for my supervisors to see the progress over time.
 https://leaffinance.notion.site/Archive-74c5a5e0aac44eb8aac2a88ff1e821b8
 
+# 5-min pitch deck
+https://docs.google.com/presentation/d/e/2PACX-1vREF5MRq7sqw3v4_IDw64Ezww0MVwsVNrKOu8KDx7CatgE9hnNt8C-UCwtJRoMRqOgJvPa2-D8aBlCR/pub?start=false&loop=false&delayms=3000
 

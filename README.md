@@ -36,3 +36,9 @@ The website is up. Having the website created first was a good decision (even th
 Last few weeks are about just that. I had a good time making connections. And while reiterating the idea many times bored me out, it's needed.
 
 Lessons learned: Australian government plans to have 50% less super funds by 2028, we need some capital for this model to work, and LinkedIn groups are surprisingly useful. 
+
+# Resources
+I have decided to share some resources that we have written during the creation of Leaf Finance - the synthetic token for ethical investment. This is but a fraction of the internal documents, but it should be enough for my supervisors to see the progress over time.
+https://leaffinance.notion.site/Archive-74c5a5e0aac44eb8aac2a88ff1e821b8
+
+
